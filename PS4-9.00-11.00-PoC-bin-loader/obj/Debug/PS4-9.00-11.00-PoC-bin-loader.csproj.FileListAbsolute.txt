@@ -1,0 +1,10 @@
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\bin\Debug\PS4-9.00-11.00-PoC-bin-loader.exe.config
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\bin\Debug\PS4-9.00-11.00-PoC-bin-loader.exe
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\bin\Debug\PS4-9.00-11.00-PoC-bin-loader.pdb
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4-9.00-11.00-PoC-bin-loader.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4_9._00_11._00_PoC_bin_loader.Form1.resources
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4_9._00_11._00_PoC_bin_loader.Properties.Resources.resources
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4-9.00-11.00-PoC-bin-loader.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4-9.00-11.00-PoC-bin-loader.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4-9.00-11.00-PoC-bin-loader.exe
+C:\Users\Master\source\repos\PS4-9.00-11.00-PoC-bin-loader\PS4-9.00-11.00-PoC-bin-loader\obj\Debug\PS4-9.00-11.00-PoC-bin-loader.pdb
